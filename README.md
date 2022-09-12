@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DanikKaragodin
-- 👀 I’m interested in PYCHINSKY ASS
 - 🌱 I’m currently learning C,С++
 - 💞️ I’m looking to collaborate on VK
 - 📫 How to reach me 
