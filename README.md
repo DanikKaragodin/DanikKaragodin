@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanikKaragodin
+- 👋 Hi, I’m @DanikKaragodin (Карагодин Даниил)
 - 🌱 I’m currently learning C,С++
 - 💞️ I’m looking to collaborate on VK
 - 📫 How to reach me 
