@@ -23,7 +23,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Software Developer:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cpp,cs,net,python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -52,6 +52,10 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ps,pr"/></td>
     </tr>
 </table>
 
